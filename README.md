@@ -10,5 +10,5 @@
 - 🤔 I’m looking for help with algorithms
 - 💬 Ask me about anything
 - 📫 How to reach me: charliegai@icloud.com
-- 😄 Pronouns: Mr.
+- 😄 Pronouns: Mr./He
 - ⚡ Fun fact: I'm not fun
