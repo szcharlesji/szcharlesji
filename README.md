@@ -1,5 +1,3 @@
-### Hi there 👋
+student of Ling&CS@NYU
 
-- 💬 Ask me about anything
-- 📫 How to reach me: szcharlesji@gmail.com
-- 😄 Pronouns: He/Him
+Interests: morphosyntax, sino-phonology, Semitic morphology, NLP
